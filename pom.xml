@@ -5,7 +5,7 @@
 	<groupId>ar.edu.unq</groupId>
 	<artifactId>notifier-free-market</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>free-market</name>
+	<name>notifier</name>
 	<description>Proyecto de simil Mercado Libre utilizando arquitectura hexagonal, realizado para la materia Arquitectura de Software 2.</description>
 
 	<parent>
